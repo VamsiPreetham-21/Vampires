@@ -1,0 +1,40 @@
+div{
+    background: red;
+    color: white;
+}
+
+#Vampire{
+    background: violet;
+    color: white;
+    border: 10px;
+    padding: 20px;
+    margin: 30px;
+}
+
+#doplaganger{
+    background: rgb(17, 9, 17);
+    color: white;
+}
+
+#Hybrid{
+    background: rgb(15, 14, 15);
+    color: white;
+}
+
+.caracter{
+    background: blue;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+span#witch{
+    background: rgb(255, 94, 0);
+    color: rgb(0, 0, 0);
+    font-family: 'Courier New', Courier, monospace;   
+}
+
+#speice ul li{
+    background: #f7f4f2;
+    color: #b63535;
+    font-family: 'Courier New', Courier, monospace;
+}
